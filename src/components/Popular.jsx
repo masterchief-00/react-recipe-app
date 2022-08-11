@@ -64,7 +64,7 @@ const Wrapper = styled.div`
   margin-top: 15px;
   margin-left: 4rem;
   margin-right: 4rem;
-  margin-bottom: 0;
+  margin-bottom: 3rem;
   overflow: hidden;
   height: 18rem;
 `;
